@@ -13,11 +13,11 @@ public class helloworld {
 		
 		System.out.println("HELLO world1");
 		System.out.println("HELLO world2");
-<<<<<<< HEAD
+
 		System.out.println("HELLO world2-user2");
-=======
+
 		System.out.println("HELLO world2-user1");
->>>>>>> branch 'master' of https://github.com/shivangikanodia21/helloworld.git
+
 		
 
 	}
